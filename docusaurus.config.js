@@ -93,10 +93,10 @@ const config = {
             activeBaseRegex: `/frontend/`,
           },
           {
-            to: '/backend/intro',  // ./docs-system/Intro.md
+            to: '/Backend/intro',  // ./docs-system/Intro.md
             label: 'Backend',
             position: 'left',
-            activeBaseRegex: `/backend/`,
+            activeBaseRegex: `/Backend/`,
           },
           {
             to: '/devops/intro',    // ./docs/Intro.md
@@ -114,7 +114,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/sistemas/intro',
+                to: '/frontend/intro',
               },
             ],
           },
