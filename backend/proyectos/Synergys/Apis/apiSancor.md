@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# EndPoints de Prudencia
+# EndPoints de Sancor
 
 Detalle de todos los **endpoints** de **Prudencia** utilizados en el SYS.
 
