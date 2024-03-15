@@ -1,3 +1,4 @@
+
 # EndPoints de Prudencia
 
 Estos son los endpoints utilizados en el procesamiento para consultar la información desde la API de prudencia.
@@ -29,6 +30,10 @@ Además, proporciona los siguientes detalles de autenticación:
 -   **username**: API149160
 -   **password**: Prudencia123
 -   **grant_type**: password
+
+### EJEMPLO
+
+![TokenPrudencia](../../../../static/prudencia/tokenPrudencia.png)
 
 Una vez que envíes la solicitud con estos detalles, recibirás un token válido para utilizar durante las próximas 24 horas.
 
