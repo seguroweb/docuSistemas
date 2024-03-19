@@ -1,24 +1,10 @@
----
-sidebar_position: 1
----
 
 # EndPoints de Prudencia
-
-Detalle de todos los **endpoints** de **Prudencia** utilizados en el SYS.
-
-## Archivo de interfaz Procesamiento
-
-Este **endpoint** automatiza el procesamiento del archivo, permitiendo que una vez cargado, se realice el ingreso de todas las pólizas en nuestra base de datos de manera eficiente y sin complicaciones adicionales.
-
-El proceso es sencillo: primero, cargas el archivo y luego accionas el **endpoint** para iniciar el procesamiento.
-
- Utilizamos un método **POST** en la ruta /operationPrudencia.
-
-## EndPoints de Prudencia por API
 
 Estos son los endpoints utilizados en el procesamiento para consultar la información desde la API de prudencia.
 
 Cabe recalcar que no esta en uso actualmente este medio de obtener la información de las pólizas, pero el fin es implementarlo en un futuro próximo.
+
 ### Prudencia API
 
 Este endpoint, implementado en el proyecto, permite el procesamiento masivo de las pólizas de Prudencia a través de su API.
@@ -44,6 +30,10 @@ Además, proporciona los siguientes detalles de autenticación:
 -   **username**: API149160
 -   **password**: Prudencia123
 -   **grant_type**: password
+
+### EJEMPLO
+
+![TokenPrudencia](../../../../static/prudencia/tokenPrudencia.png)
 
 Una vez que envíes la solicitud con estos detalles, recibirás un token válido para utilizar durante las próximas 24 horas.
 
