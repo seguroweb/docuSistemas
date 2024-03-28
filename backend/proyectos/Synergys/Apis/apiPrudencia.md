@@ -35,7 +35,7 @@ Además, proporciona los siguientes detalles de autenticación:
 
 ![TokenPrudencia](../../../../static/prudencia/tokenPrudencia.png)
 
-Una vez que envíes la solicitud con estos detalles, recibirás un token válido para utilizar durante las próximas 24 horas.
+Una vez que envíes la solicitud con estos detalles, recibirás un token válido para utilizar durante las próximas 24 horas(Esto se debe a que un estamos en estado de testing y no nos tenemos por el momento, usuario o credenciales de produccion).
 
 ###   Obtención de Ramos
 

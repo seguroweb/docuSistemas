@@ -20,7 +20,7 @@ Este proceso garantiza que toda la información relevante de los archivos de int
 
 
 ## Ruta de Procesamiento
-Para iniciar el procesamiento, actualmente se utiliza Postman accediendo a la ruta local 
+Para iniciar el procesamiento, actualmente se utiliza Postman accediendo a la ruta local.
 
 * RUTA: http://localhost:3001/operationSancor.
 
