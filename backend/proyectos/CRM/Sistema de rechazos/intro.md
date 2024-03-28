@@ -10,7 +10,7 @@ El Sistema de Rechazos es una herramienta diseñada para gestionar el ingreso de
 
 El sistema permite el ingreso de pólizas y los importes asociados (opcional) por parte de los usuarios y se envía una serie de notificaciones por correo electrónico al usuario correspondiente.
 
-### Estados de Rechazo
+### Estados de Rechazo  
 
 - **Resuelto Positivo:** El pago ha sido corregido y procesado correctamente.
 - **Resuelto Negativo:** No se responde a las notificaciones y el rechazo es derivado a calidad.
@@ -33,7 +33,7 @@ El sistema permite el ingreso de pólizas y los importes asociados (opcional) po
 ### 3. Resolución del Rechazo
 
 - El usuario puede actualizar el estado del rechazo según la respuesta o no del asegurado a:
-"resuleto positivo" o "resuelto negativo".
+"resuelto positivo" o "resuelto negativo".
 
 ## Interacciones Adicionales
 
